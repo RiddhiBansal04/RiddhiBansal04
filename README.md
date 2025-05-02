@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
 ### 👋 Hi there, I'm Riddhi!<br><br><br>🤝 I’m looking to collaborate on:  <br>- Open-source web development projects  <br>- Hackathons and AI-based solutions<br><br>🆘 I’m looking for help with:  <br>- Advanced React patterns  <br>- Optimizing DSA solutions in C++<br><br>🌱 I’m currently learning:  <br>- Data Structures & Algorithms in C++   <br>- Full-stack project architecture<br><br><br><br>
 
 
